@@ -1,0 +1,12 @@
+﻿Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("SpeakersCategory")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link_2").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link 2")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link_2").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link 2")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link_3").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link 3")_;_script infofile_;_ZIP::ssf5.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link_4").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link 4")_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link_5").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link 5")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("UserMenu").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("UserMenu")_;_script infofile_;_ZIP::ssf8.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").WebElement("WebElement").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").WebElement("WebElement")_;_script infofile_;_ZIP::ssf9.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("Link").Click @@ hightlight id_;_Browser("Advantage Shopping 2").Page("Advantage Shopping").Link("Link")_;_script infofile_;_ZIP::ssf10.xml_;_
+Browser("Advantage Shopping_2").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping_2").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf11.xml_;_
+Browser("Advantage Shopping_2").CloseAllTabs @@ hightlight id_;_1642630_;_script infofile_;_ZIP::ssf12.xml_;_
